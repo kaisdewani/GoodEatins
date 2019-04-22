@@ -15,7 +15,7 @@ class DataSet {
         FoodCategory(title: "Pasta", imageName: "pasta0"),
         FoodCategory(title: "Pizza", imageName: "pizza0"),
         FoodCategory(title: "Salads", imageName: "salad0"),
-        FoodCategory(title: "Sandwiches", imageName: "sandwhich0")
+        FoodCategory(title: "Sandwiches", imageName: "sandwich0")
     ]
     
     let burgers = [
